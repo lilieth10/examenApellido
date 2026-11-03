@@ -4,3 +4,4 @@ Libro favorito: escribe aquí el título y autor
 =======
 Libro favorito: TÍTULO - AUTOR
 >>>>>>> branch1
+Localidad: TU LOCALIDAD
