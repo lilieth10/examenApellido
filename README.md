@@ -1,7 +1,4 @@
-lilieth chacon
-<<<<<<< HEAD
-Libro favorito: escribe aquí el título y autor
-=======
-Libro favorito: TÍTULO - AUTOR
->>>>>>> branch1
+Liliet
+Libro favorito: Orgullo y prejuicio - Jane Austen
 Edad: 35
+Localidad: Sedaví
